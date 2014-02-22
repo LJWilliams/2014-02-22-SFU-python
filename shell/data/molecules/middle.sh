@@ -1,5 +1,4 @@
+# middle.sh shows lines from the middle of a text file
+# USAGE: middle.sh filename entry_line exit_line
 
-#Select lines from the middle of a file
-#Usage: middle.sh filename -end_line -num_lines
-head $2 $1 | tail $3
-
+head $2 $1 | tail $3 
