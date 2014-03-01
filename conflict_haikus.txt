@@ -1,0 +1,3 @@
+today, we learn how
+to resolve conflicts, git-style.
+it's a promise kept
